@@ -2,6 +2,7 @@
 
 This project focuses on analyzing and visualizing data, in order to gain relevamt insights using SQL, Excel and Power BI.
 
+The dashboard for this project can be found here <a href="https://github.com/Azeez1205/Data-Cleaning-Project/blob/main/E%20Commerce%20sales%20dashboard.pdf">View Dashboard</a>
 ## Project Objectives
 
 - Identify trends and patterns
